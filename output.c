@@ -1,10 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int x =("ineuron");
+    int x = printf("ineuron");
     printf("%d",x);
     return 0;
 }
 
 
- // OUTPUT - 4214852 //
