@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
 {
-    printf("\"MySirG\"");
+    printf("\"\\\\\"");
     return 0;
 }
